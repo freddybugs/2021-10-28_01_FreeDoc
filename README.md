@@ -1,4 +1,4 @@
-# Projet THP
+# Projet THP - FreeDoc
 ![FreeDoc_Diagram](https://user-images.githubusercontent.com/91549636/139319470-e8504b4e-834a-4963-8f3e-03bbc516fddd.jpg)
 
 1. Introduction
