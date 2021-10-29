@@ -1,4 +1,11 @@
 # Projet THP - FreeDoc
+
+- Faire un `bundle install`
+- Ensuite `rails db:migrate`
+- Afin de vérifier que les migrations sont up : `rails db:migrate:status`
+- Ensuite `rails db:seed`
+- Enfin ouvrir la console `rails c`
+
 ![FreeDoc_Diagram](https://user-images.githubusercontent.com/91549636/139319470-e8504b4e-834a-4963-8f3e-03bbc516fddd.jpg)
 
 1. Introduction
